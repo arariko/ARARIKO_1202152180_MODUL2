@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ARARIKO_1202152180_MODUL2</string>
+    <string name="menu1">Pilih Menu:</string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string-array name="labels_array">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+    </string-array>
+</resources>
